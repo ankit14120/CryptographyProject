@@ -1,5 +1,0 @@
-Name: Jon Peter
-Age: 32
-DoB: 15/02/1996
-Credit Card Number: 3440398814924618
-Home Address: H-44, Kmin Street West, US
